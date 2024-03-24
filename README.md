@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 IAM MARGAM VINAY <br/>
 IAM A FULL STACK WEB DEVELOPER<br/>
 ARTIFICIAL INTELLIGENCE ENTUSIAST<br/>
-<a href="linkedin.com/in/margam-vinay-b61163256" >linkedin</a>
+<a href="linkedin.com/in/mvsk" >linkedin</a>
 
