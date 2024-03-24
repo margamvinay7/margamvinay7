@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-IAM MARGAM VINAY
-IAM A FULL STACK WEB DEVELOPER
-ARTIFICIAL INTELLIGENCE ENTUSIAST
+IAM MARGAM VINAY <br/>
+IAM A FULL STACK WEB DEVELOPER<br/>
+ARTIFICIAL INTELLIGENCE ENTUSIAST<br/>
 <a href="linkedin.com/in/margam-vinay-b61163256" >linkedin</a>
 
